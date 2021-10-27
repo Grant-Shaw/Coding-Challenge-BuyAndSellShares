@@ -1,0 +1,15 @@
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\App.g.cs
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge_MarkupCompile.cache
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge_MarkupCompile.lref
+C:\Users\grant\source\repos\Computershare Coding Challenge\bin\Debug\Computershare Coding Challenge.exe.config
+C:\Users\grant\source\repos\Computershare Coding Challenge\bin\Debug\Computershare Coding Challenge.exe
+C:\Users\grant\source\repos\Computershare Coding Challenge\bin\Debug\Computershare Coding Challenge.pdb
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\MainWindow.baml
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge.g.resources
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare_Coding_Challenge.Properties.Resources.resources
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge.csproj.GenerateResource.cache
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge.exe
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge.pdb
+C:\Users\grant\source\repos\Computershare Coding Challenge\obj\Debug\Computershare Coding Challenge.csproj.AssemblyReference.cache
