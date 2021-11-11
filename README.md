@@ -1,6 +1,6 @@
-# ComputerShare-Coding-Challenge
+# Coding-Challenge
 
-This simple program reads a CSV file containing stock prices and calculates the best time to buy and sell for maximum profit. Completed for Computershare Coding Challenge.
+This simple program reads a CSV file containing stock prices and calculates the best time to buy and sell for maximum profit. 
 
 ![](https://i.gyazo.com/f244b7e8c4a882c23bc5d0e3248a283a.png)
 
